@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: film/db/changelog/create_film_tables.sql

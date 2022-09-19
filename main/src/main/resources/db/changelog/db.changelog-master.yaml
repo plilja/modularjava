@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: film/db/changelog/db.changelog-film-master.yaml
+  - include:
+      file: customer/db/changelog/db.changelog-customer-master.yaml
+  - include:
+      file: payment/db/changelog/db.changelog-payment-master.yaml

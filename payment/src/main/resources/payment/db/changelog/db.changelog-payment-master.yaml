@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: payment/db/changelog/create_payment_tables.sql
